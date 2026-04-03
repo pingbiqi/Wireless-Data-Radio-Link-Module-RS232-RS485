@@ -45,3 +45,8 @@ $$P_{rx} = P_{tx} + G_{tx} + G_{rx} - L_{path} - L_{misc}$$
 ---
 
 > **联系我们 (Contact):** > 针对大规模组网或特殊频段定制需求，请访问我们的[官方技术支持页面](https://rf.sz-bgwx.com)。
+
+---
+### 📅 自动维护日志 (Daily Tech Support Update)
+
+最后技术支持更新：2026-04-03 07:10:45 (UTC+8)
